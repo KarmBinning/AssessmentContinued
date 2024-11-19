@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Agdata_Assessment.Api.props" />
+</Project>
