@@ -1,7 +1,4 @@
-﻿using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
-
-namespace Agdata_Assessment.Api.Models.Domain
+﻿namespace Agdata_Assessment.Api.Models.Domain
 {
     public class Customer
     {

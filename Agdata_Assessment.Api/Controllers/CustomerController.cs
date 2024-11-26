@@ -1,8 +1,5 @@
-﻿using Agdata_Assessment.Api.Data;
-using Agdata_Assessment.Api.Models.Domain;
+﻿using Agdata_Assessment.Api.Models.Domain;
 using Agdata_Assessment.Api.Models.Dto;
-using Agdata_Assessment.Api.Services;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Agdata_Assessment.Api.Controllers
@@ -12,7 +9,7 @@ namespace Agdata_Assessment.Api.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
-        #region COMMENTED EFC Code
+        #region COMMENTED EFC (Entity Framework Core) Code
         //private readonly AppDbContext dbContext;
 
         //public CustomerController(AppDbContext dbContext)
@@ -102,6 +99,9 @@ namespace Agdata_Assessment.Api.Controllers
 
 
         #region Extracted Methods
+        //...
+        //...
+        //...
         #endregion
     }
 }

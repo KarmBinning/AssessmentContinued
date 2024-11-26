@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Agdata_Assessment.Api.Models.Dto
+﻿namespace Agdata_Assessment.Api.Models.Dto
 {
     public class CustomerDto
     {
